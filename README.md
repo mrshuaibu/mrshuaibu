@@ -1,6 +1,6 @@
 ### Hi there 👋, Oluwajuwon Shuaibu
 #### I am a Web Developer
-![I am a Web Developer](file:///C:/Users/Shuai/Downloads/DALL%C2%B7E%202024-11-22%2009.40.29%20-%20A%20dynamic%20and%20modern%20digital%20banner%20representing%20coding%20and%20web%20development.%20The%20image%20features%20logos%20of%20popular%20programming%20languages%20and%20frameworks%20.webp)
+![I am a Web Developer](https://1drv.ms/u/c/b3df71e74f7fb3c1/IQTgswyKeycnTJfnazNsbwEPAT4khJCVAuRYhQ6PPQ3xKFk?width=1024)
 
 I am Oluwajuwon Michael Shuaibu from Port Harcourt, Nigeria. My passion for technology started early, inspired by a curiosity about how devices work and how technology keeps advancing. I spent a lot of time taking apart gadgets and putting them back together, which sparked my interest in both hardware and software.
 
@@ -12,8 +12,6 @@ I am motivated by the opportunities technology offers to solve real-world proble
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-
-- 🔭 I’m currently working on this page. 
 
 
 
