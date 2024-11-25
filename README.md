@@ -1,4 +1,4 @@
-![I am a Web Developer](https://1drv.ms/i/c/b3df71e74f7fb3c1/IQQqxgls7POhTI3j0fOU3vOeAWME1Svu1HR66h9vN0vuFZM?width=1024)
+![I am a Web Developer](./assets/img/pic1.png)
 
 ### Hi there 👋, Oluwajuwon Shuaibu
 #### I am a Web Developer
