@@ -33,11 +33,7 @@ industry.
 - 📫 How to reach me: Shuaibumikel@gmail.com 
 - ⚡ Fun fact: I play a bit of basketball and football 
 
-![Your Contributions](https://github-readme-stats.vercel.app/api?username=mrshuaibu&show_icons=true&count_private=true&hide=prs&hide_title=true&include_all_commits=true&theme=radical)
-
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrshuaibu&theme=github_dark)
-
-![GitHub Contributions](https://ghchart.rshah.org/mrshuaibu)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
