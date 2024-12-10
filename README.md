@@ -30,11 +30,11 @@ industry.
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
+- 📫 How to reach me: Shuaibumikel@gmail.com 
+- ⚡ Fun fact: I play a bit of basketball and football 
+
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrshuaibu&theme=github&hide_border=false&bg_color=0d1117&color=58a6ff)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=mrshuaibu&show_icons=true&theme=github_dark&card_width=450&hide=contribs" alt="GitHub Stats" height="180px" width="380px">
-
-- 📫 How to reach me: Shuaibumikel@gmail.com 
-- ⚡ Fun fact: I play a bit of basketball and football 
 
 
