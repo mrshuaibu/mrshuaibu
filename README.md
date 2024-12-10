@@ -30,10 +30,13 @@ industry.
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabianmendozaospina&theme=github&hide_border=false&bg_color=0d1117&color=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=fabianmendozaospina&show_icons=true&theme=github_dark&card_width=450&hide=contribs" alt="GitHub Stats" height="180px" width="380px">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianmendozaospina&layout=compact&theme=github_dark&langs_count=6&card_width=450&bg_color=0d1117" alt="Top Languages" height="180px" width="380px">
+
 - 📫 How to reach me: Shuaibumikel@gmail.com 
 - ⚡ Fun fact: I play a bit of basketball and football 
 
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrshuaibu&theme=github_dark)
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
