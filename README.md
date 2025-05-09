@@ -35,6 +35,6 @@ industry.
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrshuaibu&theme=github&hide_border=false&bg_color=0d1117&color=58a6ff)
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=mrshuaibu&show_icons=true&theme=github_dark&card_width=450&hide=contribs" alt="GitHub Stats" height="180px" width="380px">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mrshuaibu&show_icons=true&theme=github_dark&card_width=450&hide=contribs" alt="GitHub Stats" height="180px" width="380px">
 
-
+ -->
